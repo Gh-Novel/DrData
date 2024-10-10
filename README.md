@@ -1,4 +1,4 @@
-# DrData (Not Complete)
+# DrData 
 
 Title: Handwritten Text Recognition (HTR) Excel Assistant
 
